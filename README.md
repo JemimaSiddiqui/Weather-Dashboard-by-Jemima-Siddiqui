@@ -21,8 +21,8 @@ The Work Dashboard application fulfills the following acceptance criteria:
 
 ### Viewing the homepage 
 
-In order to access the Workday Scheduler application, navigate to the following link: 
- [Weather Dashboard page](). 
+In order to access the  Weather Dashboard application, navigate to the following link: 
+ [Weather Dashboard page](https://jemimasiddiqui.github.io/Weather-Dashboard-by-Jemima-Siddiqui/). 
 
 ### Downloading Visual Studio Code 
 
@@ -30,7 +30,7 @@ In order to access the Workday Scheduler application, navigate to the following 
 
 ### Pulling the repository from Git 
 
-If you would like to acess the source code (HTML, CSS and JavaScript files), please navigate to the following public Github repository [Github Repository](). 
+If you would like to acess the source code (HTML, CSS and JavaScript files), please navigate to the following public Github repository [Github Repository](https://github.com/JemimaSiddiqui/Weather-Dashboard-by-Jemima-Siddiqui.git). 
 
 * Clone the repository to your local desktop using the following steps:
 
