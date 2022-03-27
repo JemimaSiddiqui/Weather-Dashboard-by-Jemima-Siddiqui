@@ -1,0 +1,68 @@
+#main-weather-container {
+    padding-top: 15px;
+}
+  
+#main-weather-card {
+    background-color: #ccabd8;
+}
+  
+.hero {
+    background: #8474a1; 
+    background: -webkit-linear-gradient(
+        to right,
+        #8474a1,
+        #6ec6ca
+    ); 
+    background: linear-gradient(
+        to right,
+        #8474a1,
+        #6ec6ca
+    );
+}
+
+.search-list-container {
+    background-color:#6ec6ca;
+}
+.daily-forecast-card {
+    background-color: #055b5c;
+    margin: 5px;
+    min-height: 280px;
+}
+
+#submit {
+    width: 100%;
+    margin-top:20px; 
+    margin-bottom: 20px;
+    background-color: #08979d;
+}
+
+h2 {
+    font-weight: bolder;
+}
+#clear-button {
+    margin-left: 95px;
+    background-color: #ccabd8;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+}
+
+#submit {
+width: 100%;
+margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 599px) {
+
+.column {
+    margin: 2px;
+    padding: 0 20px 0 20px;
+}
+
+.card-content {
+    padding: 20px;
+}
+}
