@@ -79,9 +79,9 @@ function search() {
         `<img src="http://openweathermap.org/img/wn/${icon}@2x.png">`
         );
         $("#city-name").html(cityName + " " + "(" + currentDate + ")");
-        $("#city-temp").text("Temp: " + cityTemperature.toFixed(1));
-        $("#city-wind-speed").text("Wind: " + cityWindSpeed + "mph");
-        $("#city-hum").text("Humidity: " + cityHumidity + "%");
+        $("#city-temperature").text("Temp: " + cityTemperature.toFixed(1));
+        $("#city-wind-speed").text("Wind: " + cityWindSpeed + " mph");
+        $("#city-humidity").text("Humidity: " + cityHumidity + "%");
         $("#date1").text(day1);
         $("#date2").text(day2);
         $("#date3").text(day3);
